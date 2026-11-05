@@ -1,6 +1,6 @@
-# When Worlds Meet
+<div align="center">
 
-### Benchmarking Implicit Causal Reasoning with IRS-Bench
+<h1>When Worlds Meet: Benchmarking Implicit Causal Reasoning with IRS-Bench</h1>
 
 Haoyang Chen<sup>1,2 *</sup>, 
 Xiang Wei<sup>1 *</sup>, 
@@ -17,6 +17,8 @@ Zhixiang Wang<sup>5 †</sup>.
 
 <sup>*</sup> Equal Contribution
 <sup>†</sup> Corresponding Author
+
+</div>
 
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)]()
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-lightgrey)]()
