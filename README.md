@@ -28,7 +28,6 @@ Zhixiang Wang<sup>5 </sup>
 
 </div>
 
-<!-- 图位：导出论文原图到 assets/ 即可
      fig1_teaser.png  fig2_framework.png  fig3_distribution.png
      fig4_qualitative.png  fig5_ablation.png -->
 
@@ -134,13 +133,6 @@ The gain on negatives is **2.4×** the gain on benign → the pipeline detects *
 | ME-Ruler (Qwen-3.8-27B) | 0.858 | 0.705 | 2.19 |
 | CompBench | 0.598 | 0.438 | 4.38 |
 | Share-CoT | 0.442 | 0.333 | 4.48 |
-
-## 🔨 Usage
-
-```python
-inst = load_instance("自然科学/物理因果/经典力学/人工实拍/16")
-score = me_ruler(composite, inst, judge="GPT-5.6SOL")   # {"overall", "by_axis", "verdicts"}
-```
 
 ⚠️ Never feed `relation` / `admissible` / `effects` to the evaluated system. Report **per task**, **per axis**, and name the **judge**.
 
