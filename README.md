@@ -11,6 +11,7 @@
 
 **1,000 pairs · 11 leaf tasks · 5 causal dimensions · 172 photographic GT · 33,024 binary rulers**
 
+
 </div>
 
 <!-- 图位：导出论文原图到 assets/ 即可
@@ -19,7 +20,6 @@
 
 ## News
 
-- **[2026.09]** Submitted to **ICLR 2027** (under review).
 - **[Soon]** `IRS-1k` dataset · `ME-Ruler` annotations · evaluation code · Reaction-Graph pipeline.
 
 ## 🌞 Abstract
