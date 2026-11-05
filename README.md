@@ -147,4 +147,4 @@ score = me_ruler(composite, inst, judge="GPT-5.6SOL")   # {"overall", "by_axis",
 
 ## 🎺 Statement
 
-No personal attributes or private communications are collected. Third-party imagery is not relicensed beyond its source permissions; a per-item provenance manifest ships with the release. Contact **<TODO: email>** for removal requests.
+For any other questions please contact Haoyang Chen at [whu.edu.cn](mailto:haoyangchen@whu.edu.cn).
