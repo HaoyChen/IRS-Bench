@@ -130,19 +130,6 @@ score = me_ruler(composite, inst, judge="GPT-5.6SOL")   # {"overall", "by_axis",
 
 ⚠️ Never feed `relation` / `admissible` / `effects` to the evaluated system. Report **per task**, **per axis**, and name the **judge**.
 
-## 📌 Scope
-
-Coverage is broad but **not balanced** (mechanics / optics / zoology dominate). **172 / 1,000** items have a photographic target. The 100 multi-foreground items and video examples are **qualitative transfer studies**, excluded from the benchmark score.
-
-## ⭐ Citation
-
-```bibtex
-@article{irsbench2027,
-  title  = {When Worlds Meet: Benchmarking Implicit Causal Reasoning with IRS-Bench},
-  author = {Anonymous Authors},
-  year   = {2026}
-}
-```
 
 ## 🎺 Statement
 
