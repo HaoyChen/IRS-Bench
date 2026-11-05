@@ -2,21 +2,19 @@
 
 <h1>When Worlds Meet: Benchmarking Implicit Causal Reasoning with IRS-Bench</h1>
 
-Haoyang Chen<sup>1,2 *</sup>, 
-Xiang Wei<sup>1 *</sup>, 
-Shiqin Wang<sup>1 *</sup>, 
+Haoyang Chen<sup>1,2</sup>, 
+Xiang Wei<sup>1</sup>, 
+Shiqin Wang<sup>1 </sup>, 
 Yizhao Huang<sup>1</sup>, 
 Caoyuan Ma<sup>3</sup>, 
 Weikang Chen<sup>1</sup>,
 Jiayuan Li<sup>2, 4</sup>, 
-Zheng Wang<sup>1,2 †</sup>, 
-Zhixiang Wang<sup>5 †</sup>.
+
+Zheng Wang<sup>1,2 </sup>, 
+Zhixiang Wang<sup>5 </sup>.
 
 
 <sup>1</sup> Wuhan University,  <sup>2</sup> Zhongguancun Academy,  <sup>3</sup> The University of Tokyo,  <sup>4</sup>  Beijing Institute of Technology, <sup>5</sup> Shanda AI Research Tokyo.
-
-<sup>*</sup> Equal Contribution
-<sup>†</sup> Corresponding Author
 
 </div>
 
